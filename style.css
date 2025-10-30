@@ -1,0 +1,9 @@
+.container{
+    background-color: brown;
+}
+
+.container p{
+    text-align: right;
+    font-size: 32px;
+    font-weight: 800;
+}
